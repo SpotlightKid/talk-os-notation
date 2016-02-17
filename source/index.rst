@@ -22,7 +22,7 @@ Slides & Beispieldateien
 http://tinyurl.com/os-notation
 
 .. figure:: /_static/slides-qrcode.svg
-    :width: 600px
+    :width: 500px
     :alt: https://github.com/SpotlightKid/talk-os-notation
 
 
@@ -219,6 +219,14 @@ Denemo
 ======
 
 http://www.denemo.org/
+
+
+Denemo Screenshot
+=================
+
+.. figure:: /_static/denemo-screenshot.png
+    :scale: 60%
+    :alt: Denemo Screenshot
 
 
 TuxGuitar
