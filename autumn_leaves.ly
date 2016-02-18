@@ -34,7 +34,7 @@
     g4 a bes \repeat volta 2 { ees1~ | ees4 f, g a | d2 d2~ | d4 ees, f g | c1~ \bar "||" \break }
     \alternative {
         { c4 d, e fis | bes1 | r4 g a bes | }
-        { c4 a c bes  | g1~  | g4 r fis g \bar "||" \break }
+        { c4\repeatTie a c bes  | g1~  | g4 r fis g \bar "||" \break }
     }
     a4 d, a'2~ | a4 a g a   | bes1~       | bes4 bes a bes | c1~   | c4 f, f' ees | \break
     d1~        | d4 r cis d | ees ees c c | a2. ees'4      | d2 d~ | \break
