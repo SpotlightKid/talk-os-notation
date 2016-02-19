@@ -260,6 +260,8 @@ Denemo
 
 http://www.denemo.org/
 
+*Noch zu vervollständigen...*
+
 
 Denemo Screenshot
 =================
@@ -274,6 +276,8 @@ TuxGuitar
 
 http://www.tuxguitar.com.ar/
 
+*Noch zu vervollständigen...*
+
 
 TuxGuitar Screenshot
 ====================
@@ -281,3 +285,21 @@ TuxGuitar Screenshot
 .. figure:: /_static/tuxguitar-screenshot.png
     :scale: 60%
     :alt: EasyABC Screenshot
+
+
+Was fehlt?
+==========
+
+* NoteEdit (Projekt aufgegeben)
+* `Rosegarden <http://www.rosegardenmusic.com/>`_
+* *Optical Music Recognition*, z.B. `Audiveris <https://audiveris.kenai.com/>`_
+* Plattform-spezifische Programme und Notationsysteme, z.B.
+  `TablEdit <http://tabledit.com/>`_
+
+
+Danke für die Aufmerksamkeit!
+=============================
+
+Pull Requests sind willkommen!
+
+https://github.com/SpotlightKid/talk-os-notation
