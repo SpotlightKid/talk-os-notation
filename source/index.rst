@@ -215,6 +215,46 @@ https://musescore.org/
 * Ausgabe: PDF, MIDI u.v.m.
 
 
+MuseScore: Neue Partitur
+========================
+
+.. figure:: /_static/musescore-new.png
+    :scale: 80%
+    :alt: Erstellen einer neuen Partitur in MuseScore
+
+
+MuseScore: Vorlagenauswahl
+==========================
+
+.. figure:: /_static/musescore-template.png
+    :scale: 80%
+    :alt: Auswahl der Vorlage für die Partitur in MuseScore
+
+
+MuseScore: Tonart
+=================
+
+.. figure:: /_static/musescore-key.png
+    :scale: 80%
+    :alt: Auswahl der Tonart der Partitur in MuseScore
+
+
+MuseScore: Taktart und Tempo
+============================
+
+.. figure:: /_static/musescore-time.png
+    :scale: 80%
+    :alt: Auswahl der Taktart und des Tempo der Partitur in MuseScore
+
+
+MuseScore: Hauptfenster
+=======================
+
+.. figure:: /_static/musescore-main.png
+    :scale: 60%
+    :alt: Hauptfenster von MuseScore
+
+
 Denemo
 ======
 
